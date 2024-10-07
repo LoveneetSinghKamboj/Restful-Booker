@@ -1,0 +1,1077 @@
+[INFO ] 2024-06-22 19:38:44.956 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-22 19:38:45.027 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-22 19:38:52.533 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-22 19:38:52.767 [main] Log - testCase1_CreateBooking test is failed.
+[INFO ] 2024-06-22 19:38:52.772 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-22 19:38:52.778 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:52.778 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:52.778 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:54.027 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:54.028 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:54.042 [main] Log - validate main header
+[INFO ] 2024-06-22 19:38:54.256 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-22 19:38:54.261 [main] Log - testCase1_DeleteBooking test is starting.
+[INFO ] 2024-06-22 19:38:56.690 [main] Log - testCase1_DeleteBooking test is succeed.
+[INFO ] 2024-06-22 19:38:56.691 [main] Log - testCase1_GetBookingID test is starting.
+[INFO ] 2024-06-22 19:39:01.511 [main] Log - testCase1_GetBookingID test is succeed.
+[INFO ] 2024-06-22 19:39:01.512 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-22 19:39:19.444 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-22 19:39:19.446 [main] Log - testCase1_InvalidCreateToken test is starting.
+[INFO ] 2024-06-22 19:40:27.467 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-22 19:40:27.502 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-22 19:40:30.153 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-22 19:40:30.310 [main] Log - testCase1_CreateBooking test is failed.
+[INFO ] 2024-06-22 19:40:30.316 [main] Log - testCase1_DeleteBooking test is starting.
+[INFO ] 2024-06-22 19:40:32.707 [main] Log - testCase1_DeleteBooking test is failed.
+[INFO ] 2024-06-22 19:40:32.709 [main] Log - testCase1_GetBookingID test is starting.
+[INFO ] 2024-06-22 19:40:35.301 [main] Log - testCase1_GetBookingID test is succeed.
+[INFO ] 2024-06-22 19:40:35.302 [main] Log - testCase1_GetBookingID test is failed.
+[INFO ] 2024-06-22 19:40:35.304 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-22 19:40:36.816 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-22 19:40:36.817 [main] Log - testCase1_GetBookingIDS test is failed.
+[INFO ] 2024-06-22 19:40:36.819 [main] Log - testCase1_InvalidCreateToken test is starting.
+[INFO ] 2024-06-22 19:40:38.037 [main] Log - testCase1_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-22 19:40:38.037 [main] Log - testCase1_InvalidCreateToken test is failed.
+[INFO ] 2024-06-22 19:40:38.040 [main] Log - testCase1_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-22 19:40:40.494 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-22 19:40:40.497 [main] Log - testCase1_UpdateBooking test is starting.
+[INFO ] 2024-06-22 19:40:42.969 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-22 19:40:42.972 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-22 19:40:42.976 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:42.976 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:42.976 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:44.144 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:44.145 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:44.145 [main] Log - validate main header
+[INFO ] 2024-06-22 19:40:44.150 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-22 19:40:44.154 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-22 19:43:03.471 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-22 19:43:03.504 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-22 19:43:03.686 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:03.686 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:03.687 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:06.226 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:06.227 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:06.243 [main] Log - validate main header
+[INFO ] 2024-06-22 19:43:06.458 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-22 19:43:06.463 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-23 16:31:39.942 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-23 16:31:40.140 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-23 16:31:41.421 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:31:41.422 [main] Log - Set FirstName
+[INFO ] 2024-06-23 16:31:41.422 [main] Log - Set LastName
+[INFO ] 2024-06-23 16:31:41.422 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:31:41.423 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:31:41.423 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:31:41.426 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:31:41.426 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:31:41.427 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:31:41.427 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:31:53.898 [main] Log - Create Api Called
+[INFO ] 2024-06-23 16:31:53.901 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:31:53.928 [main] Log - Assert Booking Response
+[INFO ] 2024-06-23 16:31:53.930 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-23 16:31:53.942 [main] Log - testCase1_GetBookingID test is starting.
+[INFO ] 2024-06-23 16:31:55.681 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:31:55.681 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:31:55.988 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:31:55.995 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:31:56.004 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:31:56.011 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:31:56.019 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:31:56.027 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:31:56.035 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:31:56.036 [main] Log - testCase1_GetBookingID test is succeed.
+[INFO ] 2024-06-23 16:31:56.040 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-23 16:31:58.324 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:31:58.325 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:32:01.473 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-23 16:32:01.473 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-23 16:32:01.475 [main] Log - testCase1_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-23 16:32:01.479 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:32:01.480 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:32:01.480 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:32:03.419 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-23 16:32:03.461 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-23 16:32:03.476 [main] Log - testCase1_UpdateBooking test is starting.
+[INFO ] 2024-06-23 16:32:03.477 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:32:03.478 [main] Log - Set New First Name
+[INFO ] 2024-06-23 16:32:03.478 [main] Log - Set New Last Name
+[INFO ] 2024-06-23 16:32:03.479 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:32:03.479 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:32:03.479 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:32:03.479 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:32:03.480 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:32:03.480 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:32:09.157 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-23 16:32:09.158 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-23 16:32:09.163 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-23 16:32:09.166 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:32:09.166 [main] Log - Set Username
+[INFO ] 2024-06-23 16:32:09.168 [main] Log - Set Password
+[INFO ] 2024-06-23 16:32:11.905 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:32:11.906 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:32:11.929 [main] Log - validate main response
+[INFO ] 2024-06-23 16:32:11.939 [main] Log - Main token set to variable
+[INFO ] 2024-06-23 16:32:11.939 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-23 16:32:11.941 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-23 16:32:11.942 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:32:11.942 [main] Log - Set Username
+[INFO ] 2024-06-23 16:32:11.943 [main] Log - Set Password
+[INFO ] 2024-06-23 16:32:15.279 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:32:15.280 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:32:15.293 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-23 16:32:15.294 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-23 16:32:15.298 [main] Log - testCase1_DeleteBooking test is starting.
+[INFO ] 2024-06-23 16:32:18.589 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-23 16:32:18.590 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:32:18.591 [main] Log - testCase1_DeleteBooking test is succeed.
+[INFO ] 2024-06-23 16:32:18.594 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-23 16:35:00.550 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-23 16:35:00.712 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-23 16:35:01.565 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:35:01.566 [main] Log - Set FirstName
+[INFO ] 2024-06-23 16:35:01.566 [main] Log - Set LastName
+[INFO ] 2024-06-23 16:35:01.567 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:35:01.567 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:35:01.567 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:35:01.569 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:35:01.570 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:35:01.571 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:35:01.571 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:35:09.465 [main] Log - Create Api Called
+[INFO ] 2024-06-23 16:35:09.467 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:09.489 [main] Log - Assert Booking Response
+[INFO ] 2024-06-23 16:35:09.491 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-23 16:35:09.499 [main] Log - testCase1_GetBookingID test is starting.
+[INFO ] 2024-06-23 16:35:11.649 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:35:11.649 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:11.920 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:35:11.926 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:35:11.933 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:35:11.942 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:35:11.948 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:35:11.955 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:35:11.962 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:35:11.962 [main] Log - testCase1_GetBookingID test is succeed.
+[INFO ] 2024-06-23 16:35:11.966 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-23 16:35:14.590 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:35:14.590 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:18.273 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-23 16:35:18.274 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-23 16:35:18.276 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-23 16:35:18.278 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:35:18.278 [main] Log - Set Username
+[INFO ] 2024-06-23 16:35:18.279 [main] Log - Set Password
+[INFO ] 2024-06-23 16:35:21.286 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:35:21.287 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:35:21.304 [main] Log - validate main response
+[INFO ] 2024-06-23 16:35:21.313 [main] Log - Main token set to variable
+[INFO ] 2024-06-23 16:35:21.313 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-23 16:35:21.316 [main] Log - testCase1_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-23 16:35:21.320 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:35:21.320 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:35:21.320 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:35:27.728 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-23 16:35:27.729 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:27.748 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-23 16:35:27.758 [main] Log - testCase1_UpdateBooking test is starting.
+[INFO ] 2024-06-23 16:35:27.759 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:35:27.760 [main] Log - Set New First Name
+[INFO ] 2024-06-23 16:35:27.761 [main] Log - Set New Last Name
+[INFO ] 2024-06-23 16:35:27.761 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:35:27.761 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:35:27.761 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:35:27.761 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:35:27.762 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:35:27.762 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:35:31.837 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-23 16:35:31.839 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:31.855 [main] Log - Assert Not Equal old First Name Value
+[INFO ] 2024-06-23 16:35:31.865 [main] Log - Assert Not Equal old Last Name Value
+[INFO ] 2024-06-23 16:35:31.873 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:35:31.881 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:35:31.886 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:35:31.892 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:35:31.903 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:35:31.910 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:35:31.916 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:35:31.917 [main] Log - testCase1_UpdateBooking test is succeed.
+[INFO ] 2024-06-23 16:35:31.918 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-23 16:35:31.919 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:35:31.919 [main] Log - Set Username
+[INFO ] 2024-06-23 16:35:31.920 [main] Log - Set Password
+[INFO ] 2024-06-23 16:35:35.074 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:35:35.075 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:35:35.088 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-23 16:35:35.088 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-23 16:35:35.093 [main] Log - testCase1_DeleteBooking test is starting.
+[INFO ] 2024-06-23 16:35:37.878 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-23 16:35:37.879 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:35:37.881 [main] Log - testCase1_DeleteBooking test is succeed.
+[INFO ] 2024-06-23 16:35:37.883 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-23 16:40:16.612 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-23 16:40:16.808 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-23 16:40:18.044 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:40:18.045 [main] Log - Set FirstName
+[INFO ] 2024-06-23 16:40:18.045 [main] Log - Set LastName
+[INFO ] 2024-06-23 16:40:18.046 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:40:18.047 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:40:18.047 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:40:18.051 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:40:18.051 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:40:18.051 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:40:18.052 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:40:32.594 [main] Log - Create Api Called
+[INFO ] 2024-06-23 16:40:32.597 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:32.621 [main] Log - Assert Booking Response
+[INFO ] 2024-06-23 16:40:32.622 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-23 16:40:32.630 [main] Log - testCase1_GetBookingID test is starting.
+[INFO ] 2024-06-23 16:40:34.856 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:40:34.856 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:35.111 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:40:35.120 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:40:35.127 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:40:35.137 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:40:35.143 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:40:35.148 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:40:35.153 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:40:35.153 [main] Log - testCase1_GetBookingID test is succeed.
+[INFO ] 2024-06-23 16:40:35.156 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-23 16:40:37.938 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-23 16:40:37.939 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:38.007 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-23 16:40:38.007 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-23 16:40:38.009 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-23 16:40:38.010 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:40:38.010 [main] Log - Set Username
+[INFO ] 2024-06-23 16:40:38.011 [main] Log - Set Password
+[INFO ] 2024-06-23 16:40:39.605 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:40:39.606 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:40:39.628 [main] Log - validate main response
+[INFO ] 2024-06-23 16:40:39.639 [main] Log - Main token set to variable
+[INFO ] 2024-06-23 16:40:39.640 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-23 16:40:39.644 [main] Log - testCase1_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-23 16:40:39.648 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:40:39.649 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:40:39.649 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:40:40.905 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-23 16:40:40.906 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:40.917 [main] Log - Assert Not Equal old Total Price Value
+[INFO ] 2024-06-23 16:40:40.928 [main] Log - Assert Not Equal old Deposit Paid Value
+[INFO ] 2024-06-23 16:40:40.938 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:40:40.946 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:40:40.953 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:40:40.960 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:40:40.969 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:40:40.980 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:40:40.990 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:40:40.990 [main] Log - testCase1_PartialUpdateBooking test is succeed.
+[INFO ] 2024-06-23 16:40:40.993 [main] Log - testCase1_UpdateBooking test is starting.
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Booking Object Created
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Set New First Name
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Set New Last Name
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Set Total Price
+[INFO ] 2024-06-23 16:40:40.994 [main] Log - Set Additional Needs
+[INFO ] 2024-06-23 16:40:40.995 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-23 16:40:40.995 [main] Log - Set Checkin Date
+[INFO ] 2024-06-23 16:40:40.995 [main] Log - Set Checkout Date
+[INFO ] 2024-06-23 16:40:43.005 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-23 16:40:43.006 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:43.016 [main] Log - Assert Not Equal old First Name Value
+[INFO ] 2024-06-23 16:40:43.023 [main] Log - Assert Not Equal old Last Name Value
+[INFO ] 2024-06-23 16:40:43.029 [main] Log - Assert First Name
+[INFO ] 2024-06-23 16:40:43.037 [main] Log - Assert Last Name
+[INFO ] 2024-06-23 16:40:43.044 [main] Log - Assert Total Price
+[INFO ] 2024-06-23 16:40:43.052 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-23 16:40:43.060 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-23 16:40:43.069 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-23 16:40:43.078 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-23 16:40:43.079 [main] Log - testCase1_UpdateBooking test is succeed.
+[INFO ] 2024-06-23 16:40:43.084 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-23 16:40:43.084 [main] Log - Properties File Loaded
+[INFO ] 2024-06-23 16:40:43.085 [main] Log - Set Username
+[INFO ] 2024-06-23 16:40:43.086 [main] Log - Set Password
+[INFO ] 2024-06-23 16:40:44.309 [main] Log - Login Api Called
+[INFO ] 2024-06-23 16:40:44.309 [main] Log - validate Status code
+[INFO ] 2024-06-23 16:40:44.318 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-23 16:40:44.318 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-23 16:40:44.320 [main] Log - testCase1_DeleteBooking test is starting.
+[INFO ] 2024-06-23 16:40:45.608 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-23 16:40:45.610 [main] Log - Assert Status Code
+[INFO ] 2024-06-23 16:40:45.610 [main] Log - testCase1_DeleteBooking test is succeed.
+[INFO ] 2024-06-23 16:40:45.613 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:25:20.246 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:25:20.250 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:25:20.251 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:25:20.251 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:25:20.251 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:25:23.184 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:25:23.186 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:25:23.220 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:27:34.588 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:27:34.596 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:27:34.596 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:27:34.597 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:27:34.597 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:27:34.597 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:27:34.599 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:27:34.599 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:27:34.599 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:27:34.600 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:27:38.367 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:27:38.372 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:27:38.400 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:28:36.066 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:28:36.070 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:28:36.070 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:28:36.070 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:28:36.070 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:28:36.071 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:28:36.071 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:28:36.071 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:28:36.071 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:28:36.072 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:28:38.568 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:28:38.569 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:28:38.590 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:28:38.594 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:28:38.595 [main] Log - Set Username
+[INFO ] 2024-06-24 16:28:38.595 [main] Log - Set Password
+[INFO ] 2024-06-24 16:28:39.773 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:28:39.774 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:28:39.787 [main] Log - validate main response
+[INFO ] 2024-06-24 16:28:39.987 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:29:56.503 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:29:56.552 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:29:56.742 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:29:56.743 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:29:56.744 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:29:56.744 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:29:56.744 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:29:59.158 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:29:59.160 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:29:59.182 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:29:59.184 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:29:59.189 [main] Log - testCase1_CreateBookingWithExcel test is starting.
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:29:59.199 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:30:00.430 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:30:00.431 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:30:00.435 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:30:00.664 [main] Log - testCase1_CreateBookingWithExcel test is failed.
+[INFO ] 2024-06-24 16:30:00.675 [main] Log - testCase1_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:30:00.680 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:30:01.951 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:30:01.951 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:30:02.310 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:30:02.311 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:30:02.314 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-24 16:30:02.315 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:30:02.315 [main] Log - Set Username
+[INFO ] 2024-06-24 16:30:02.316 [main] Log - Set Password
+[INFO ] 2024-06-24 16:30:03.567 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:30:03.567 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:30:03.578 [main] Log - validate main response
+[INFO ] 2024-06-24 16:30:03.583 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:30:03.584 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:30:03.585 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:30:03.587 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:30:03.590 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:30:03.591 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:30:03.591 [main] Log - Set Username
+[INFO ] 2024-06-24 16:30:03.591 [main] Log - Set Password
+[INFO ] 2024-06-24 16:30:04.756 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:30:04.756 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:30:04.762 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:30:04.763 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:30:04.764 [main] Log - testCase1_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:30:04.765 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:32:27.357 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:32:27.448 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:32:27.844 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:32:27.844 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:32:27.844 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:32:27.845 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:32:27.846 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:32:27.846 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:32:27.847 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:32:27.847 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:32:27.848 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:32:27.848 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:32:31.481 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:32:31.482 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:32:31.509 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:32:31.510 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:32:31.518 [main] Log - testCase1_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:32:31.521 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:32:31.522 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:32:32.741 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:32:32.741 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:32:32.743 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:32:32.743 [main] Log - testCase1_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:32:32.746 [main] Log - testCase1_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:32:32.752 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:32:33.989 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:32:33.989 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:32:34.567 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:32:34.567 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:32:34.569 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-24 16:32:34.570 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:32:34.571 [main] Log - Set Username
+[INFO ] 2024-06-24 16:32:34.571 [main] Log - Set Password
+[INFO ] 2024-06-24 16:32:35.794 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:32:35.794 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:32:35.806 [main] Log - validate main response
+[INFO ] 2024-06-24 16:32:35.988 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:32:35.988 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:32:35.989 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:32:35.991 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:32:35.994 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:32:35.994 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:32:35.994 [main] Log - Set Username
+[INFO ] 2024-06-24 16:32:35.995 [main] Log - Set Password
+[INFO ] 2024-06-24 16:32:37.189 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:32:37.190 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:32:37.196 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:32:37.197 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:32:37.198 [main] Log - testCase1_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:32:37.199 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:35:08.173 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:35:08.226 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:35:08.412 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:35:08.413 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:35:08.413 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:35:08.413 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:35:08.413 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:35:10.888 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:35:10.890 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:35:10.916 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:35:10.917 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:35:10.925 [main] Log - testCase1_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:35:10.930 [main] Log - testCase1_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:35:12.171 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:35:12.171 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:35:12.773 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:35:12.774 [main] Log - testCase1_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:35:12.777 [main] Log - testCase2_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:35:12.782 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:35:12.783 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:35:12.783 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:35:12.783 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:35:12.783 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:35:14.002 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:35:14.002 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:35:14.002 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:35:14.002 [main] Log - testCase2_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:35:14.004 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-24 16:35:14.004 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:35:14.005 [main] Log - Set Username
+[INFO ] 2024-06-24 16:35:14.005 [main] Log - Set Password
+[INFO ] 2024-06-24 16:35:15.196 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:35:15.197 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:35:15.207 [main] Log - validate main response
+[INFO ] 2024-06-24 16:35:15.378 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:35:15.379 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:35:15.381 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:35:15.383 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:35:15.386 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:35:15.387 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:35:15.387 [main] Log - Set Username
+[INFO ] 2024-06-24 16:35:15.388 [main] Log - Set Password
+[INFO ] 2024-06-24 16:35:16.629 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:35:16.629 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:35:16.637 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:35:16.638 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:35:16.639 [main] Log - testCase1_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:35:16.640 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:36:33.518 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:36:33.646 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:36:34.130 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:36:34.130 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:36:34.131 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:36:34.131 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:36:34.131 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:36:34.131 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:36:34.133 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:36:34.133 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:36:34.133 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:36:34.133 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:36:37.745 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:36:37.748 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:36:37.774 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:36:37.775 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:36:37.784 [main] Log - testCase1_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:36:37.789 [main] Log - testCase1_GetBookingIDS test is failed.
+[INFO ] 2024-06-24 16:36:37.793 [main] Log - testCase2_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:36:37.795 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:36:37.796 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:36:39.000 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:36:39.000 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:36:39.002 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:36:39.003 [main] Log - testCase2_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:36:39.005 [main] Log - testCase1_CreateToken test is starting.
+[INFO ] 2024-06-24 16:36:39.006 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:36:39.007 [main] Log - Set Username
+[INFO ] 2024-06-24 16:36:39.007 [main] Log - Set Password
+[INFO ] 2024-06-24 16:36:40.290 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:36:40.290 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:36:40.301 [main] Log - validate main response
+[INFO ] 2024-06-24 16:36:40.545 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:36:40.545 [main] Log - testCase1_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:36:40.547 [main] Log - testCase1_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:36:40.549 [main] Log - testCase1_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:36:40.552 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:36:40.553 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:36:40.553 [main] Log - Set Username
+[INFO ] 2024-06-24 16:36:40.553 [main] Log - Set Password
+[INFO ] 2024-06-24 16:36:41.806 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:36:41.806 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:36:41.811 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:36:41.812 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:36:41.813 [main] Log - testCase1_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:36:41.815 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:38:33.924 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:38:34.018 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:38:34.414 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:38:34.414 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:38:34.414 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:38:34.414 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:38:34.415 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:38:34.415 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:38:34.416 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:38:34.416 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:38:34.417 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:38:34.417 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:38:37.998 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:38:38.001 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:38:38.026 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:38:38.028 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:38:38.035 [main] Log - testCase3_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:38:38.039 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:38:38.040 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:38:38.040 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:38:38.040 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:38:39.286 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:38:39.286 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:38:39.288 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:38:39.289 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:38:39.294 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:38:40.546 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:38:40.546 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:38:40.560 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:38:40.560 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:38:40.562 [main] Log - testCase6_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:38:40.567 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:38:40.568 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:38:40.568 [main] Log - Set Username
+[INFO ] 2024-06-24 16:38:40.568 [main] Log - Set Password
+[INFO ] 2024-06-24 16:38:41.813 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:38:41.814 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:38:41.825 [main] Log - validate main response
+[INFO ] 2024-06-24 16:38:42.076 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:38:42.076 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:38:42.079 [main] Log - testCase7_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:38:42.083 [main] Log - testCase8_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:38:42.087 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:38:42.088 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:38:42.088 [main] Log - Set Username
+[INFO ] 2024-06-24 16:38:42.089 [main] Log - Set Password
+[INFO ] 2024-06-24 16:38:43.293 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:38:43.293 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:38:43.300 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:38:43.301 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:38:43.302 [main] Log - testCase9_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:38:43.304 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:41:22.666 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:41:22.956 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:41:23.741 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:41:23.742 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:41:23.742 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:41:23.743 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:41:23.744 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:41:23.745 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:41:23.747 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:41:23.748 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:41:23.748 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:41:23.749 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:41:32.704 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:41:32.708 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:41:32.748 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:41:32.750 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:41:32.764 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:41:33.993 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:41:33.993 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:41:34.007 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:41:34.009 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:41:34.013 [main] Log - testCase6_GetBookingID test is failed.
+[INFO ] 2024-06-24 16:41:34.024 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:41:34.025 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:41:34.026 [main] Log - Set Username
+[INFO ] 2024-06-24 16:41:34.026 [main] Log - Set Password
+[INFO ] 2024-06-24 16:41:35.305 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:41:35.306 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:41:35.328 [main] Log - validate main response
+[INFO ] 2024-06-24 16:41:35.673 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:41:35.674 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:41:35.675 [main] Log - testCase7_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:41:35.677 [main] Log - testCase8_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:41:35.679 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:41:35.680 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:41:35.680 [main] Log - Set Username
+[INFO ] 2024-06-24 16:41:35.680 [main] Log - Set Password
+[INFO ] 2024-06-24 16:41:36.889 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:41:36.890 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:41:36.906 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:41:36.907 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:41:36.910 [main] Log - testCase9_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:41:36.914 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:42:54.336 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:42:54.415 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:42:54.830 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:42:54.831 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:42:54.831 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:42:54.831 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:42:54.832 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:42:54.832 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:42:54.833 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:42:54.833 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:42:54.834 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:42:54.834 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:42:58.481 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:42:58.484 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:42:58.525 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:42:58.526 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:42:58.537 [main] Log - testCase3_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:42:58.541 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:42:58.541 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:42:58.541 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:42:58.542 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:42:59.838 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:42:59.839 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:42:59.840 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:42:59.841 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:42:59.845 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:43:01.021 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:43:01.021 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:43:01.047 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:43:01.047 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:43:01.050 [main] Log - testCase6_GetBookingID test is starting.
+[INFO ] 2024-06-24 16:43:02.256 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:43:02.257 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:43:02.466 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:43:02.473 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:43:02.479 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:43:02.487 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:43:02.493 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:43:02.500 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:43:02.505 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:43:02.506 [main] Log - testCase6_GetBookingID test is succeed.
+[INFO ] 2024-06-24 16:43:02.508 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:43:02.508 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:43:02.509 [main] Log - Set Username
+[INFO ] 2024-06-24 16:43:02.509 [main] Log - Set Password
+[INFO ] 2024-06-24 16:43:03.732 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:43:03.732 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:43:03.741 [main] Log - validate main response
+[INFO ] 2024-06-24 16:43:03.747 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:43:03.747 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:43:03.749 [main] Log - testCase7_UpdateBooking test is starting.
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set New First Name
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set New Last Name
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:43:03.750 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:43:03.751 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:43:04.969 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-24 16:43:04.969 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:43:04.974 [main] Log - Assert Not Equal old First Name Value
+[INFO ] 2024-06-24 16:43:04.980 [main] Log - Assert Not Equal old Last Name Value
+[INFO ] 2024-06-24 16:43:04.985 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:43:04.990 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:43:04.994 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:43:05.001 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:43:05.007 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:43:05.014 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:43:05.020 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:43:05.020 [main] Log - testCase7_UpdateBooking test is succeed.
+[INFO ] 2024-06-24 16:43:05.023 [main] Log - testCase8_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-24 16:43:05.023 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:43:05.023 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:43:05.023 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:43:06.253 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-24 16:43:06.255 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:43:06.265 [main] Log - Assert Not Equal old Total Price Value
+[INFO ] 2024-06-24 16:43:06.269 [main] Log - Assert Not Equal old Deposit Paid Value
+[INFO ] 2024-06-24 16:43:06.274 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:43:06.278 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:43:06.286 [main] Log - testCase8_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:43:06.291 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:43:06.292 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:43:06.292 [main] Log - Set Username
+[INFO ] 2024-06-24 16:43:06.292 [main] Log - Set Password
+[INFO ] 2024-06-24 16:43:07.465 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:43:07.465 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:43:07.470 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:43:07.471 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:43:07.472 [main] Log - testCase9_DeleteBooking test is starting.
+[INFO ] 2024-06-24 16:43:08.729 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-24 16:43:08.730 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:43:08.731 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-06-24 16:43:08.732 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:45:22.634 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:45:22.736 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:45:23.111 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:23.111 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:45:23.111 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:45:23.111 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:45:23.112 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:45:23.112 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:45:23.113 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:45:23.113 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:45:23.113 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:45:23.113 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:26.821 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:45:26.825 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:45:26.859 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:45:26.860 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:45:26.870 [main] Log - testCase3_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:45:26.873 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:26.873 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:45:26.873 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:45:26.874 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:28.080 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:45:28.080 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:45:28.082 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:45:28.082 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:45:28.085 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:45:29.256 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:45:29.256 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:45:29.528 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:45:29.529 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:45:29.532 [main] Log - testCase6_GetBookingID test is starting.
+[INFO ] 2024-06-24 16:45:30.685 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:45:30.686 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:45:30.910 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:45:30.918 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:45:30.924 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:45:30.928 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:45:30.933 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:45:30.938 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:45:30.942 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:45:30.942 [main] Log - testCase6_GetBookingID test is succeed.
+[INFO ] 2024-06-24 16:45:30.944 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:45:30.944 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:45:30.944 [main] Log - Set Username
+[INFO ] 2024-06-24 16:45:30.944 [main] Log - Set Password
+[INFO ] 2024-06-24 16:45:32.208 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:45:32.208 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:45:32.218 [main] Log - validate main response
+[INFO ] 2024-06-24 16:45:32.224 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:45:32.224 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:45:32.227 [main] Log - testCase7_UpdateBooking test is starting.
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Set New First Name
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Set New Last Name
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:45:32.228 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:45:32.229 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:45:32.229 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:45:33.384 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-24 16:45:33.385 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:45:33.390 [main] Log - testCase7_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:45:33.394 [main] Log - testCase8_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-24 16:45:33.395 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:45:33.395 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:45:33.395 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:45:34.599 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-24 16:45:34.602 [main] Log - testCase8_PartialUpdateBooking test is failed.
+[INFO ] 2024-06-24 16:45:34.606 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:45:34.606 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:45:34.606 [main] Log - Set Username
+[INFO ] 2024-06-24 16:45:34.607 [main] Log - Set Password
+[INFO ] 2024-06-24 16:45:35.802 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:45:35.802 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:45:35.809 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:45:35.809 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:45:35.810 [main] Log - testCase9_DeleteBooking test is starting.
+[INFO ] 2024-06-24 16:45:37.051 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-24 16:45:37.052 [main] Log - testCase9_DeleteBooking test is failed.
+[INFO ] 2024-06-24 16:45:37.055 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:49:38.561 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:49:38.645 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:49:39.058 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:39.059 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:49:39.059 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:49:39.060 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:49:39.060 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:49:39.061 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:49:39.062 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:49:39.063 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:49:39.063 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:49:39.064 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:43.955 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:49:43.957 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:43.984 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:49:43.985 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:49:43.994 [main] Log - testCase3_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:49:43.997 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:49:43.998 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:45.230 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:49:45.230 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:45.231 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:49:45.232 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:49:45.236 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:49:46.506 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:49:46.507 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:46.862 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:49:46.862 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:49:46.865 [main] Log - testCase6_GetBookingID test is starting.
+[INFO ] 2024-06-24 16:49:48.139 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:49:48.139 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:48.350 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:49:48.356 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:49:48.362 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:49:48.368 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:49:48.374 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:49:48.381 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:49:48.386 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:49:48.386 [main] Log - testCase6_GetBookingID test is succeed.
+[INFO ] 2024-06-24 16:49:48.388 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:49:48.389 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:49:48.389 [main] Log - Set Username
+[INFO ] 2024-06-24 16:49:48.389 [main] Log - Set Password
+[INFO ] 2024-06-24 16:49:49.553 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:49:49.553 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:49:49.566 [main] Log - validate main response
+[INFO ] 2024-06-24 16:49:49.573 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:49:49.573 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:49:49.575 [main] Log - testCase8_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-24 16:49:49.575 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:49.576 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:49:49.576 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:49:50.842 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-24 16:49:50.844 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:50.852 [main] Log - Assert Not Equal old Total Price Value
+[INFO ] 2024-06-24 16:49:50.856 [main] Log - Assert Not Equal old Deposit Paid Value
+[INFO ] 2024-06-24 16:49:50.860 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:49:50.864 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:49:50.871 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:49:50.877 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:49:50.883 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:49:50.889 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:49:50.895 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:49:50.895 [main] Log - testCase8_PartialUpdateBooking test is succeed.
+[INFO ] 2024-06-24 16:49:50.898 [main] Log - testCase7_UpdateBooking test is starting.
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Set New First Name
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Set New Last Name
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:49:50.899 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:49:50.900 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:49:50.900 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:49:50.900 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:49:52.110 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-24 16:49:52.111 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:52.115 [main] Log - Assert Not Equal old First Name Value
+[INFO ] 2024-06-24 16:49:52.120 [main] Log - Assert Not Equal old Last Name Value
+[INFO ] 2024-06-24 16:49:52.124 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:49:52.128 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:49:52.135 [main] Log - testCase7_UpdateBooking test is failed.
+[INFO ] 2024-06-24 16:49:52.139 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:49:52.139 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:49:52.140 [main] Log - Set Username
+[INFO ] 2024-06-24 16:49:52.140 [main] Log - Set Password
+[INFO ] 2024-06-24 16:49:53.296 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:49:53.296 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:49:53.301 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:49:53.302 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:49:53.303 [main] Log - testCase9_DeleteBooking test is starting.
+[INFO ] 2024-06-24 16:49:54.510 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-24 16:49:54.511 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:49:54.511 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-06-24 16:49:54.513 [main] Log - I am in onFinish method Test
+[INFO ] 2024-06-24 16:55:31.562 [main] Log - I am in onStart method Test
+[INFO ] 2024-06-24 16:55:31.769 [main] Log - testCase1_CreateBooking test is starting.
+[INFO ] 2024-06-24 16:55:32.348 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:32.349 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:55:32.349 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:55:32.349 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:55:32.350 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:55:32.350 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:55:32.351 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:55:32.352 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:55:32.352 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:55:32.352 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:37.651 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:55:37.658 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:37.725 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:55:37.733 [main] Log - testCase1_CreateBooking test is succeed.
+[INFO ] 2024-06-24 16:55:37.749 [main] Log - testCase3_CreateBookingWithDataProvider test is starting.
+[INFO ] 2024-06-24 16:55:37.755 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:37.756 [main] Log - Set FirstName
+[INFO ] 2024-06-24 16:55:37.756 [main] Log - Set LastName
+[INFO ] 2024-06-24 16:55:37.756 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:55:37.757 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:55:37.757 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:55:37.757 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:55:37.757 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:55:37.758 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:55:37.758 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:39.040 [main] Log - Create Api Called
+[INFO ] 2024-06-24 16:55:39.041 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:39.045 [main] Log - Assert Booking Response
+[INFO ] 2024-06-24 16:55:39.045 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-06-24 16:55:39.053 [main] Log - testCase5_GetBookingIDS test is starting.
+[INFO ] 2024-06-24 16:55:40.319 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:55:40.319 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:40.621 [main] Log - Assert Our Booking Present in Response
+[INFO ] 2024-06-24 16:55:40.622 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-06-24 16:55:40.625 [main] Log - testCase6_GetBookingID test is starting.
+[INFO ] 2024-06-24 16:55:41.836 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-06-24 16:55:41.836 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:42.165 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:55:42.176 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:55:42.186 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:55:42.194 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:55:42.201 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:55:42.209 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:55:42.218 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:55:42.219 [main] Log - testCase6_GetBookingID test is succeed.
+[INFO ] 2024-06-24 16:55:42.222 [main] Log - testCase10_CreateToken test is starting.
+[INFO ] 2024-06-24 16:55:42.223 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:55:42.224 [main] Log - Set Username
+[INFO ] 2024-06-24 16:55:42.224 [main] Log - Set Password
+[INFO ] 2024-06-24 16:55:43.412 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:55:43.412 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:55:43.433 [main] Log - validate main response
+[INFO ] 2024-06-24 16:55:43.447 [main] Log - Main token set to variable
+[INFO ] 2024-06-24 16:55:43.448 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-06-24 16:55:43.450 [main] Log - testCase8_PartialUpdateBooking test is starting.
+[INFO ] 2024-06-24 16:55:43.451 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:43.451 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:55:43.451 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:55:44.726 [main] Log - Partial Update Booking Api Call
+[INFO ] 2024-06-24 16:55:44.727 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:44.743 [main] Log - Assert Not Equal old Total Price Value
+[INFO ] 2024-06-24 16:55:44.754 [main] Log - Assert Not Equal old Deposit Paid Value
+[INFO ] 2024-06-24 16:55:44.765 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:55:44.782 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:55:44.794 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:55:44.813 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:55:44.829 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:55:44.846 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:55:44.861 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:55:44.862 [main] Log - testCase8_PartialUpdateBooking test is succeed.
+[INFO ] 2024-06-24 16:55:44.867 [main] Log - testCase7_UpdateBooking test is starting.
+[INFO ] 2024-06-24 16:55:44.868 [main] Log - Booking Object Created
+[INFO ] 2024-06-24 16:55:44.868 [main] Log - Set New First Name
+[INFO ] 2024-06-24 16:55:44.868 [main] Log - Set New Last Name
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Set Deposit Paid
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Set Total Price
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Set Additional Needs
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Booking Dates Object Created
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Set Checkin Date
+[INFO ] 2024-06-24 16:55:44.869 [main] Log - Set Checkout Date
+[INFO ] 2024-06-24 16:55:46.110 [main] Log - Update Booking Api Call
+[INFO ] 2024-06-24 16:55:46.112 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:46.123 [main] Log - Assert Not Equal old First Name Value
+[INFO ] 2024-06-24 16:55:46.135 [main] Log - Assert Not Equal old Last Name Value
+[INFO ] 2024-06-24 16:55:46.144 [main] Log - Assert First Name
+[INFO ] 2024-06-24 16:55:46.149 [main] Log - Assert Last Name
+[INFO ] 2024-06-24 16:55:46.157 [main] Log - Assert Total Price
+[INFO ] 2024-06-24 16:55:46.165 [main] Log - Assert Deposit Paid
+[INFO ] 2024-06-24 16:55:46.174 [main] Log - Assert Additional Needs
+[INFO ] 2024-06-24 16:55:46.185 [main] Log - Assert CheckIn Date
+[INFO ] 2024-06-24 16:55:46.197 [main] Log - Assert CheckOut Date
+[INFO ] 2024-06-24 16:55:46.197 [main] Log - testCase7_UpdateBooking test is succeed.
+[INFO ] 2024-06-24 16:55:46.201 [main] Log - testCase2_InvalidCreateToken test is starting.
+[INFO ] 2024-06-24 16:55:46.202 [main] Log - Properties File Loaded
+[INFO ] 2024-06-24 16:55:46.203 [main] Log - Set Username
+[INFO ] 2024-06-24 16:55:46.204 [main] Log - Set Password
+[INFO ] 2024-06-24 16:55:47.440 [main] Log - Login Api Called
+[INFO ] 2024-06-24 16:55:47.440 [main] Log - validate Status code
+[INFO ] 2024-06-24 16:55:47.450 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-06-24 16:55:47.451 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-06-24 16:55:47.453 [main] Log - testCase9_DeleteBooking test is starting.
+[INFO ] 2024-06-24 16:55:48.688 [main] Log - Delete Booking Api Call
+[INFO ] 2024-06-24 16:55:48.689 [main] Log - Assert Status Code
+[INFO ] 2024-06-24 16:55:48.690 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-06-24 16:55:48.691 [main] Log - I am in onFinish method Test
