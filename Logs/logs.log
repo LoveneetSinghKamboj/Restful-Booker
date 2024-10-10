@@ -1075,3 +1075,250 @@
 [INFO ] 2024-06-24 16:55:48.689 [main] Log - Assert Status Code
 [INFO ] 2024-06-24 16:55:48.690 [main] Log - testCase9_DeleteBooking test is succeed.
 [INFO ] 2024-06-24 16:55:48.691 [main] Log - I am in onFinish method Test
+[INFO ] 2024-10-10 18:27:31.145 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:27:31.251 [main] Log - testCase1_CreateBookingtest is starting.
+[INFO ] 2024-10-10 18:27:31.736 [main] Log - testCase1_CreateBooking test is failed.
+[INFO ] 2024-10-10 18:27:31.752 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:27:31.753 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:27:31.754 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:27:31.754 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:27:31.755 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:27:31.755 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:27:31.755 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:27:31.757 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:27:31.757 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:27:31.757 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:27:31.757 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:27:35.968 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:27:35.972 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:27:36.009 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:27:36.010 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:27:36.023 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:27:36.023 [main] Log - testCase5_GetBookingIDS test is skipped.
+[INFO ] 2024-10-10 18:27:36.025 [main] Log - testCase6_GetBookingIDtest is starting.
+[INFO ] 2024-10-10 18:27:36.025 [main] Log - testCase6_GetBookingID test is skipped.
+[INFO ] 2024-10-10 18:27:36.028 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:27:36.028 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:27:36.029 [main] Log - Set Username
+[INFO ] 2024-10-10 18:27:36.029 [main] Log - Set Password
+[INFO ] 2024-10-10 18:27:37.357 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:27:37.358 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:27:37.368 [main] Log - validate main response
+[INFO ] 2024-10-10 18:27:37.709 [main] Log - Main token set to variable
+[INFO ] 2024-10-10 18:27:37.710 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-10-10 18:27:37.712 [main] Log - testCase8_PartialUpdateBookingtest is starting.
+[INFO ] 2024-10-10 18:27:37.712 [main] Log - testCase8_PartialUpdateBooking test is skipped.
+[INFO ] 2024-10-10 18:27:37.714 [main] Log - testCase7_UpdateBookingtest is starting.
+[INFO ] 2024-10-10 18:27:37.714 [main] Log - testCase7_UpdateBooking test is skipped.
+[INFO ] 2024-10-10 18:27:37.716 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:27:37.717 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:27:37.717 [main] Log - Set Username
+[INFO ] 2024-10-10 18:27:37.718 [main] Log - Set Password
+[INFO ] 2024-10-10 18:27:39.044 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:27:39.044 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:27:39.050 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-10-10 18:27:39.051 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-10-10 18:27:39.051 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:27:39.052 [main] Log - testCase9_DeleteBooking test is skipped.
+[INFO ] 2024-10-10 18:27:39.053 [main] Log - I am in onFinish methodTest
+[INFO ] 2024-10-10 18:30:10.318 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:30:10.414 [main] Log - testCase1_CreateBooking test is failed.
+[INFO ] 2024-10-10 18:30:10.471 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:30:10.875 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:30:10.875 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:30:10.876 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:30:10.876 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:30:10.876 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:30:10.876 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:30:10.877 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:30:10.878 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:30:10.878 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:30:10.878 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:30:14.807 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:30:14.815 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:30:14.850 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:30:14.853 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:30:14.868 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:30:14.869 [main] Log - testCase5_GetBookingIDS test is skipped.
+[INFO ] 2024-10-10 18:30:14.871 [main] Log - testCase6_GetBookingIDtest is starting.
+[INFO ] 2024-10-10 18:30:14.872 [main] Log - testCase6_GetBookingID test is skipped.
+[INFO ] 2024-10-10 18:30:14.875 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:30:14.876 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:30:14.877 [main] Log - Set Username
+[INFO ] 2024-10-10 18:30:14.877 [main] Log - Set Password
+[INFO ] 2024-10-10 18:30:16.159 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:30:16.160 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:30:16.173 [main] Log - validate main response
+[INFO ] 2024-10-10 18:30:16.479 [main] Log - Main token set to variable
+[INFO ] 2024-10-10 18:30:16.479 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-10-10 18:30:16.481 [main] Log - testCase8_PartialUpdateBookingtest is starting.
+[INFO ] 2024-10-10 18:30:16.481 [main] Log - testCase8_PartialUpdateBooking test is skipped.
+[INFO ] 2024-10-10 18:30:16.483 [main] Log - testCase7_UpdateBookingtest is starting.
+[INFO ] 2024-10-10 18:30:16.483 [main] Log - testCase7_UpdateBooking test is skipped.
+[INFO ] 2024-10-10 18:30:16.486 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:30:16.487 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:30:16.487 [main] Log - Set Username
+[INFO ] 2024-10-10 18:30:16.488 [main] Log - Set Password
+[INFO ] 2024-10-10 18:30:17.729 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:30:17.729 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:30:17.740 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-10-10 18:30:17.741 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-10-10 18:30:17.742 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:30:17.743 [main] Log - testCase9_DeleteBooking test is skipped.
+[INFO ] 2024-10-10 18:30:17.744 [main] Log - I am in onFinish methodTest
+[INFO ] 2024-10-10 18:32:56.414 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:32:56.542 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:32:56.958 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:32:56.958 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:32:56.959 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:32:56.959 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:32:56.960 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:32:56.960 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:32:56.961 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:32:56.962 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:32:56.962 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:32:56.962 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:33:01.260 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:33:01.266 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:33:01.320 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:33:01.322 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:33:01.337 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:33:02.609 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-10-10 18:33:02.609 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:33:02.610 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-10-10 18:33:02.612 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:33:02.613 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:33:02.613 [main] Log - Set Username
+[INFO ] 2024-10-10 18:33:02.613 [main] Log - Set Password
+[INFO ] 2024-10-10 18:33:03.937 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:33:03.937 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:33:03.950 [main] Log - validate main response
+[INFO ] 2024-10-10 18:33:04.240 [main] Log - Main token set to variable
+[INFO ] 2024-10-10 18:33:04.241 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-10-10 18:33:04.243 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:33:04.243 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:33:04.244 [main] Log - Set Username
+[INFO ] 2024-10-10 18:33:04.244 [main] Log - Set Password
+[INFO ] 2024-10-10 18:33:05.575 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:33:05.575 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:33:05.581 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-10-10 18:33:05.582 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-10-10 18:33:05.583 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:33:06.954 [main] Log - Delete Booking Api Call
+[INFO ] 2024-10-10 18:33:06.958 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:33:06.959 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-10-10 18:33:06.961 [main] Log - I am in onFinish methodTest
+[INFO ] 2024-10-10 18:33:38.284 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:33:38.380 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:33:38.824 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:33:38.824 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:33:38.825 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:33:38.825 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:33:38.825 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:33:38.826 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:33:38.827 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:33:38.827 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:33:38.828 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:33:38.828 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:33:42.845 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:33:42.848 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:33:42.879 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:33:42.882 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:33:42.893 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:33:44.180 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-10-10 18:33:44.181 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:33:44.181 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-10-10 18:33:44.183 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:33:44.184 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:33:44.184 [main] Log - testCase10_CreateToken test is failed.
+[INFO ] 2024-10-10 18:33:44.188 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:33:44.189 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:33:44.189 [main] Log - testCase2_InvalidCreateToken test is failed.
+[INFO ] 2024-10-10 18:33:44.191 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:33:45.497 [main] Log - Delete Booking Api Call
+[INFO ] 2024-10-10 18:33:45.509 [main] Log - testCase9_DeleteBooking test is failed.
+[INFO ] 2024-10-10 18:33:45.512 [main] Log - I am in onFinish methodTest
+[INFO ] 2024-10-10 18:34:25.574 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:34:25.717 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:34:26.192 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:34:26.192 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:34:26.193 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:34:26.193 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:34:26.193 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:34:26.194 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:34:26.196 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:34:26.196 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:34:26.197 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:34:26.197 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:34:30.303 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:34:30.307 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:34:30.342 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:34:30.344 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:34:30.354 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:34:31.711 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-10-10 18:34:31.711 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:34:31.711 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-10-10 18:34:31.714 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:34:31.714 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:34:31.715 [main] Log - Set Username
+[INFO ] 2024-10-10 18:34:31.715 [main] Log - Set Password
+[INFO ] 2024-10-10 18:34:32.966 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:34:32.966 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:34:32.980 [main] Log - validate main response
+[INFO ] 2024-10-10 18:34:33.266 [main] Log - Main token set to variable
+[INFO ] 2024-10-10 18:34:33.267 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-10-10 18:34:33.270 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:34:33.271 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:34:33.271 [main] Log - Set Username
+[INFO ] 2024-10-10 18:34:33.272 [main] Log - Set Password
+[INFO ] 2024-10-10 18:34:34.634 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:34:34.635 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:34:34.643 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-10-10 18:34:34.644 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-10-10 18:34:34.645 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:34:35.944 [main] Log - Delete Booking Api Call
+[INFO ] 2024-10-10 18:34:35.948 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:34:35.948 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-10-10 18:34:35.949 [main] Log - I am in onFinish methodTest
+[INFO ] 2024-10-10 18:35:00.652 [main] Log - I am in onStart method Test
+[INFO ] 2024-10-10 18:35:00.759 [main] Log - testCase3_CreateBookingWithDataProvidertest is starting.
+[INFO ] 2024-10-10 18:35:01.365 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:35:01.366 [main] Log - Set FirstName
+[INFO ] 2024-10-10 18:35:01.367 [main] Log - Set LastName
+[INFO ] 2024-10-10 18:35:01.367 [main] Log - Set Deposit Paid
+[INFO ] 2024-10-10 18:35:01.367 [main] Log - Set Total Price
+[INFO ] 2024-10-10 18:35:01.367 [main] Log - Set Additional Needs
+[INFO ] 2024-10-10 18:35:01.369 [main] Log - Booking Dates Object Created
+[INFO ] 2024-10-10 18:35:01.369 [main] Log - Set Checkin Date
+[INFO ] 2024-10-10 18:35:01.370 [main] Log - Set Checkout Date
+[INFO ] 2024-10-10 18:35:01.371 [main] Log - Booking Object Created
+[INFO ] 2024-10-10 18:35:06.044 [main] Log - Create Api Called
+[INFO ] 2024-10-10 18:35:06.047 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:35:06.100 [main] Log - Assert Booking Response
+[INFO ] 2024-10-10 18:35:06.103 [main] Log - testCase3_CreateBookingWithDataProvider test is succeed.
+[INFO ] 2024-10-10 18:35:06.116 [main] Log - testCase5_GetBookingIDStest is starting.
+[INFO ] 2024-10-10 18:35:07.452 [main] Log - GetBooking ID Api Called
+[INFO ] 2024-10-10 18:35:07.453 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:35:07.453 [main] Log - testCase5_GetBookingIDS test is succeed.
+[INFO ] 2024-10-10 18:35:07.457 [main] Log - testCase10_CreateTokentest is starting.
+[INFO ] 2024-10-10 18:35:07.457 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:35:07.458 [main] Log - Set Username
+[INFO ] 2024-10-10 18:35:07.458 [main] Log - Set Password
+[INFO ] 2024-10-10 18:35:08.780 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:35:08.780 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:35:08.803 [main] Log - validate main response
+[INFO ] 2024-10-10 18:35:09.312 [main] Log - Main token set to variable
+[INFO ] 2024-10-10 18:35:09.313 [main] Log - testCase10_CreateToken test is succeed.
+[INFO ] 2024-10-10 18:35:09.318 [main] Log - testCase2_InvalidCreateTokentest is starting.
+[INFO ] 2024-10-10 18:35:09.318 [main] Log - Properties File Loaded
+[INFO ] 2024-10-10 18:35:09.319 [main] Log - Set Username
+[INFO ] 2024-10-10 18:35:09.320 [main] Log - Set Password
+[INFO ] 2024-10-10 18:35:10.597 [main] Log - Login Api Called
+[INFO ] 2024-10-10 18:35:10.597 [main] Log - validate Status code
+[INFO ] 2024-10-10 18:35:10.614 [main] Log - Validate response as Bad Credentials
+[INFO ] 2024-10-10 18:35:10.615 [main] Log - testCase2_InvalidCreateToken test is succeed.
+[INFO ] 2024-10-10 18:35:10.619 [main] Log - testCase9_DeleteBookingtest is starting.
+[INFO ] 2024-10-10 18:35:11.914 [main] Log - Delete Booking Api Call
+[INFO ] 2024-10-10 18:35:11.918 [main] Log - Assert Status Code
+[INFO ] 2024-10-10 18:35:11.918 [main] Log - testCase9_DeleteBooking test is succeed.
+[INFO ] 2024-10-10 18:35:11.920 [main] Log - I am in onFinish methodTest

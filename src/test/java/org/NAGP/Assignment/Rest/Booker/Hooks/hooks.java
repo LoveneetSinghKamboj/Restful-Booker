@@ -28,7 +28,6 @@ public class hooks
         }
         try {
             String strProjectLoc = System.getProperty("user.dir");
-            reader = new ExcelFileIO( STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources\{File.separator}testData\{File.separator}BookingData.xlsx");
         }
         catch(Exception e) {
             Log.error(e.getMessage());
@@ -37,9 +36,9 @@ public class hooks
 
     public static void setProperties() throws IOException {
         String strProjectLoc = System.getProperty("user.dir");
-        FileInputStream fileInputStream= new FileInputStream(STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources\{File.separator}properties\{File.separator}execution.properties");
+        FileInputStream fileInputStream= new FileInputStream("src/test/resources/properties/execution.properties");
         helper=new Helper();
-        helper.set_path(STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources\{File.separator}properties\{File.separator}execution.properties");
+        helper.set_path("src/test/resources/properties/execution.properties");
         properties.load(fileInputStream);
     }
 

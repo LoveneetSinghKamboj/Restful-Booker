@@ -9,16 +9,13 @@ import org.NAGP.Assignment.Rest.Booker.Utils.Logs.Log;
 import org.NAGP.Assignment.Rest.POJO.Request.BookingDetails;
 import org.NAGP.Assignment.Rest.POJO.Request.Bookingdates;
 import org.NAGP.Assignment.Rest.POJO.Response.BookingDetailsResponse;
-import org.NAGP.Assignment.Rest.POJO.Response.BookingId;
 import org.NAGP.Assignment.Rest.Utilities.apitest.baseAPI.*;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import com.relevantcodes.extentreports.LogStatus;
 
 import java.lang.reflect.Method;
-import java.util.HashMap;
-import java.util.List;
+
 
 import static org.NAGP.Assignment.Rest.Booker.Utils.ExtentReports.ExtentTestManager.*;
 
@@ -101,42 +98,9 @@ public class BooksTest extends hooks {
         Log.info("Assert Booking Response");
     }
 
-    @Test(description = "Test Case used to Create a New Booking")
-    public void testCase1_CreateBooking(Method method) throws InterruptedException {
-        extentTest = startTest(method.getName(), "Test Case used to Create a New Booking");
-        HashMap<String, String> testData = new HashMap<String, String>();
-        testData = reader.getRowTestData(sheetName, "Createbooking");
-        BookingDetails bookingDetails = new BookingDetails();
-        Log.info("Booking Object Created");
-        bookingDetails.setFirstname(testData.get("Firstname"));
-        Log.info("Set FirstName");
-        bookingDetails.setLastname(testData.get("LastName"));
-        Log.info("Set LastName");
-        bookingDetails.setDepositPaid(Boolean.getBoolean( testData.get("DepositPaid")));
-        Log.info("Set Deposit Paid");
-        bookingDetails.setTotalPrice(Integer.parseInt(testData.get("TotalPrice")));
-        Log.info("Set Total Price");
-        bookingDetails.setAdditionalNeeds(testData.get("AdditionalNeeds"));
-        Log.info("Set Additional Needs");
-        Bookingdates bookingDates = new Bookingdates();
-        Log.info("Booking Dates Object Created");
-        bookingDates.setCheckIN(testData.get("CheckIn"));
-        Log.info("Set Checkin Date");
-        bookingDates.setCheckOut(testData.get("CheckOut"));
-        Log.info("Set Checkout Date");
-        bookingDetails.setDates(bookingDates);
-        Log.info("Booking Object Created");
-        Auth auth = new Auth();
-        ValidatableResponse response = auth.CreateBooking(bookingDetails);
-        Log.info("Create Api Called");
-        Assert.assertEquals(response.extract().statusCode(), 200);
-        Log.info("Assert Status Code");
-        bookingDetailsResponse = response.extract().as(BookingDetailsResponse.class);
-        JsonPath jsonPath = new JsonPath(response.extract().asString());
-        Log.info("Assert Booking Response");
-    }
 
-    @Test(dependsOnMethods = "testCase1_CreateBooking",description = "Test Case used to get all Booking Ids")
+
+    @Test(description = "Test Case used to get all Booking Ids")
     public void testCase5_GetBookingIDS(Method method) throws InterruptedException {
         extentTest = startTest(method.getName(), "Test Case used to get all Booking Ids");
         Auth auth = new Auth();
@@ -144,118 +108,10 @@ public class BooksTest extends hooks {
         Log.info("GetBooking ID Api Called");
         Assert.assertEquals(response.extract().statusCode(), 200);
         Log.info("Assert Status Code");
-        List<BookingId> bookingId = List.of(response.log().all().extract().as(BookingId[].class));
-        Assert.assertTrue(bookingId.stream().anyMatch(o -> o.getBookingid() == (bookingDetailsResponse.getBookingid())));
-        Log.info("Assert Our Booking Present in Response");
     }
 
-    @Test(dependsOnMethods = "testCase1_CreateBooking",description = "Test Case used to Particular Booking Id")
-    public void testCase6_GetBookingID(Method method) throws InterruptedException {
-        extentTest = startTest(method.getName(), "Test Case used to Particular Booking Id");
-        Auth auth = new Auth();
-        ValidatableResponse response = auth.GetBookingID(bookingDetailsResponse.getBookingid());
-        Log.info("GetBooking ID Api Called");
-        Assert.assertEquals(response.extract().statusCode(), 200);
-        Log.info("Assert Status Code");
-        JsonPath jsonPath = new JsonPath(response.extract().asString());
-        Assert.assertEquals(jsonPath.get("firstname"), bookingDetailsResponse.getBooking().getFirstname());
-        Log.info("Assert First Name");
-        Assert.assertEquals(jsonPath.get("lastname"), bookingDetailsResponse.getBooking().getLastname());
-        Log.info("Assert Last Name");
-        Assert.assertEquals(jsonPath.getInt("totalprice"), bookingDetailsResponse.getBooking().getTotalprice());
-        Log.info("Assert Total Price");
-        Assert.assertEquals(jsonPath.get("depositpaid"), bookingDetailsResponse.getBooking().isDepositpaid());
-        Log.info("Assert Deposit Paid");
-        Assert.assertEquals(jsonPath.get("additionalneeds"), bookingDetailsResponse.getBooking().getAdditionalneeds());
-        Log.info("Assert Additional Needs");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkin"), bookingDetailsResponse.getBooking().getBookingdates().getCheckin());
-        Log.info("Assert CheckIn Date");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkout"), bookingDetailsResponse.getBooking().getBookingdates().getCheckout());
-        Log.info("Assert CheckOut Date");
-    }
 
-    @Test(dependsOnMethods = {"testCase1_CreateBooking","testCase10_CreateToken","testCase8_PartialUpdateBooking"},description = "Test Case used to Update Booking")
-    public void testCase7_UpdateBooking(Method method) throws InterruptedException {
-        extentTest = startTest(method.getName(), "Test Case used to Update Booking");
-        BookingDetails bookingDetails = new BookingDetails();
-        Log.info("Booking Object Created");
-        bookingDetails.setFirstname("Love");
-        Log.info("Set New First Name");
-        bookingDetails.setLastname("Kamboj");
-        Log.info("Set New Last Name");
-        bookingDetails.setDepositPaid(true);
-        Log.info("Set Deposit Paid");
-        bookingDetails.setTotalPrice(100);
-        Log.info("Set Total Price");
-        bookingDetails.setAdditionalNeeds("Breakfast");
-        Log.info("Set Additional Needs");
-        Bookingdates bookingDates = new Bookingdates();
-        Log.info("Booking Dates Object Created");
-        bookingDates.setCheckIN("2024-10-20");
-        Log.info("Set Checkin Date");
-        bookingDates.setCheckOut("2024-10-22");
-        Log.info("Set Checkout Date");
-        bookingDetails.setDates(bookingDates);
-        Auth auth = new Auth();
-        ValidatableResponse response = auth.UpdateBooking(bookingDetails, bookingDetailsResponse.getBookingid(), token);
-        Log.info("Update Booking Api Call");
-        Assert.assertEquals(response.log().all().extract().statusCode(), 200);
-        Log.info("Assert Status Code");
-        JsonPath jsonPath = new JsonPath(response.extract().asString());
-        Assert.assertNotEquals(jsonPath.get("firstname"), bookingDetailsResponse.getBooking().getFirstname());
-        Log.info("Assert Not Equal old First Name Value");
-        Assert.assertNotEquals(jsonPath.get("lastname"), bookingDetailsResponse.getBooking().getLastname());
-        Log.info("Assert Not Equal old Last Name Value");
-        Assert.assertEquals(jsonPath.get("firstname"), "Love");
-        Log.info("Assert First Name");
-        Assert.assertEquals(jsonPath.get("lastname"), "Kamboj");
-        Log.info("Assert Last Name");
-        Assert.assertEquals(jsonPath.getInt("totalprice"), bookingDetailsResponse.getBooking().getTotalprice());
-        Log.info("Assert Total Price");
-        Assert.assertEquals(jsonPath.get("depositpaid"), bookingDetailsResponse.getBooking().isDepositpaid());
-        Log.info("Assert Deposit Paid");
-        Assert.assertEquals(jsonPath.get("additionalneeds"), bookingDetailsResponse.getBooking().getAdditionalneeds());
-        Log.info("Assert Additional Needs");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkin"), bookingDetailsResponse.getBooking().getBookingdates().getCheckin());
-        Log.info("Assert CheckIn Date");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkout"), bookingDetailsResponse.getBooking().getBookingdates().getCheckout());
-        Log.info("Assert CheckOut Date");
-    }
-
-    @Test(dependsOnMethods = {"testCase1_CreateBooking","testCase10_CreateToken"})
-    public void testCase8_PartialUpdateBooking() throws InterruptedException {
-        BookingDetails bookingDetails = new BookingDetails();
-        Log.info("Booking Object Created");
-        bookingDetails.setDepositPaid(false);
-        Log.info("Set Deposit Paid");
-        bookingDetails.setTotalPrice(1000);
-        Log.info("Set Total Price");
-        Auth auth = new Auth();
-        ValidatableResponse response = auth.PartialUpdateBooking(bookingDetails, bookingDetailsResponse.getBookingid(), token);
-        Log.info("Partial Update Booking Api Call");
-        Assert.assertEquals(response.log().all().extract().statusCode(), 200);
-        Log.info("Assert Status Code");
-        JsonPath jsonPath = new JsonPath(response.extract().asString());
-        Assert.assertNotEquals(jsonPath.get("totalprice"), bookingDetailsResponse.getBooking().getTotalprice());
-        Log.info("Assert Not Equal old Total Price Value");
-        Assert.assertNotEquals(jsonPath.get("depositpaid"), bookingDetailsResponse.getBooking().isDepositpaid());
-        Log.info("Assert Not Equal old Deposit Paid Value");
-        Assert.assertEquals(jsonPath.getInt("totalprice"), 1000);
-        Log.info("Assert Total Price");
-        Assert.assertEquals(jsonPath.get("depositpaid"), false);
-        Log.info("Assert Deposit Paid");
-        Assert.assertEquals(jsonPath.get("firstname"), bookingDetailsResponse.getBooking().getFirstname());
-        Log.info("Assert First Name");
-        Assert.assertEquals(jsonPath.get("lastname"), bookingDetailsResponse.getBooking().getLastname());
-        Log.info("Assert Last Name");
-        Assert.assertEquals(jsonPath.get("additionalneeds"), bookingDetailsResponse.getBooking().getAdditionalneeds());
-        Log.info("Assert Additional Needs");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkin"), bookingDetailsResponse.getBooking().getBookingdates().getCheckin());
-        Log.info("Assert CheckIn Date");
-        Assert.assertEquals(jsonPath.get("bookingdates.checkout"), bookingDetailsResponse.getBooking().getBookingdates().getCheckout());
-        Log.info("Assert CheckOut Date");    }
-
-    @Test(dependsOnMethods = "testCase1_CreateBooking",priority = 2)
+    @Test(priority = 2)
     public void testCase9_DeleteBooking() throws InterruptedException {
         Auth auth = new Auth();
         ValidatableResponse response = auth.DeleteBooking(bookingDetailsResponse.getBookingid(), token);

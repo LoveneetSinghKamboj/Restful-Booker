@@ -16,7 +16,7 @@ public class ExtentManager {
         String sourcefileName = null;
         String strProjectLoc = System.getProperty("user.dir");
         String timeStamp = new SimpleDateFormat("d-MMM-YY HH-mm-ss").format(Calendar.getInstance().getTime());
-        File dir1 = new File(STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources");
+        File dir1 = new File("src/test/resources");
         for(String s: Objects.requireNonNull(dir1.list()))
         {
             if(s.contains("Current Test Result"))
@@ -24,14 +24,14 @@ public class ExtentManager {
                 sourcefileName=s;
             }
         }
-        File dir = new File(STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources/"+sourcefileName);
+        File dir = new File("src/test/resources"+sourcefileName);
         if (!dir.isDirectory()) {
             System.err.println("There is no directory @ given path");
         } else {
-            File newDir = new File(STR."\{dir.getParent()}\{File.separator}Archived Test Result-"+sourcefileName.substring(20));
+            File newDir = new File(dir.getParent()+"/Archived Test Result-"+sourcefileName.substring(20));
             dir.renameTo(newDir);
         }
-        ExtentSparkReporter reporter = new ExtentSparkReporter(STR."\{strProjectLoc}\{File.separator}src\{File.separator}test\{File.separator}resources./Current Test Result-"+timeStamp+"/extent-report.html");
+        ExtentSparkReporter reporter = new ExtentSparkReporter("src/test/resources/Current Test Result-"+timeStamp+"/extent-report.html");
         reporter.config().setReportName("Red Bus Extent Report");
         extentReports.attachReporter(reporter);
         return extentReports;
